@@ -1,0 +1,12 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "a timestamp service",
+  "main": "index.js",
+  "author": "nopestack",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
